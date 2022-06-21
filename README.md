@@ -35,3 +35,5 @@ Armazenar as anotações do curso de banco de dados, por hora somente as anotaç
  - Banco usado MYSQL
  -Comandos de DDL, DML (Create table, triggers, procedures views, inserts, update, deletes, selects...)
  -Modelagem
+ 
+ Curso disponível em: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/learn/lecture/19042650?start=165#overview
